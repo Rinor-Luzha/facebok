@@ -26,7 +26,6 @@ export type Message =
     };
 
 export const names = [
-"Rinor",
   "Drilon",
   "Agon",
   "Hakan"
